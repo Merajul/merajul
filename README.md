@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 </br>
-🛢️ I'm a Software Developer and DevOps Engineer from Bangladesh, passionate about automating and optimizing software development, deployment, and infrastructure management. As a DevOps engineer, I thrive at the intersection of development and operations, working tirelessly to enhance the efficiency, scalability, and reliability of software systems.</br>
+🛢️ I'm a Software Developer and DevOps Engineer from Bangladesh, passionate about automating and optimizing software development, deployment, and infrastructure management. As a DevOps engineer, I thrive at the intersection of development and operations, working tirelessly to enhance the efficiency, scalability, and reliability of software systems.</br></br>
 
 🔧 My toolkit includes an array of tools and technologies, including Docker, Kubernetes, Jenkins, Terraform, Ansible, and a host of scripting/programming languages. I believe in continuous integration, continuous delivery, and the power of infrastructure as code to streamline the software development lifecycle.</br>
 
