@@ -6,7 +6,7 @@
 
 🌐 Throughout my career, I've had the privilege of collaborating with cross-functional teams to architect, implement, and maintain robust CI/CD pipelines, ensuring smooth and secure software releases. I'm an advocate for a culture of automation, monitoring, and rapid feedback to help organizations achieve their business goals.</br>
 
-📚 Beyond code and infrastructure, I'm a fervent learner, always exploring the latest DevOps trends, best practices, and emerging technologies. I'm excited to share my knowledge and contribute to the open-source community.</br>
+📚 Beyond code and infrastructure, I'm a fervent learner, always exploring the latest DevOps trends, best practices, and emerging technologies.</br>
 
 🔗 Connect with me to discuss all things DevOps, automation, and how we can work together to drive innovation and excellence in software development. Let's build a future where development and operations work in harmony to deliver exceptional software experiences.</br>
 
